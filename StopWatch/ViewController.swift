@@ -15,17 +15,36 @@ class ViewController: UIViewController {
     @IBOutlet weak var playButton: UIButton!
     @IBOutlet weak var pauseButton: UIButton!
     
-    var Counter = 0.0
-    var Timer = NSTimer()
-    var IsPlaying = false
+    var time = 0
+    var timer = Timer()
+   
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+    }
+
+    @IBAction func playButtonTouched(_ sender: Any) {
+    
+        timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(ViewController.UpdateTimer), userInfo: nil, repeats: true)
+    }
+    
+    
+    @IBAction func pauseButtonTouched(_ sender: Any) {
+        timer.invalidate()
+    }
+    
+    @IBAction func resetButtonTouched(_ sender: Any) {
+        time = 0
+        timer.invalidate()
+    }
+    
+    
+    func UpdateTimer() {
+        time += 1
+        timeLabel.text = String(time)
     }
 
     
-
-
 }
 
