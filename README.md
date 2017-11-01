@@ -6,9 +6,7 @@ Hi Fellow Developers / Recruiters
 I'm an aspiring Mobile Developer and here's a sample of my projects using SWIFT.
 Apple's newest programming language for developing mobile apps.
 
-I've been inspired by Allen Wang's 30 days of Swift and Sam Lu's 100 Days of Swift projects and decided to have my own version, to showcase my progress and skills as a Swift iOS Developer
-
-I also learned from Rob Percival, Mark Price, and Angela Yu's Udemy iOS courses, which is really worth it and made my journey as developer much more enriching.
+I've been inspired by Allen Wang's 30 days of Swift and Sam Lu's 100 Days of Swift projects and decided to have my own version, to showcase my progress and skills as a Swift iOS Develope
 
 **CCA Certified for Swift Level 1 and Level 2
 
@@ -29,5 +27,6 @@ Project 01 -  UBER Clone Project (Firebase + Mapkit)
 ### Ray Wenderlich Sample Projects
 < Project Index >
 Project 01: IceCreamFlavor App (CocoaPods + Alamofire)
+Project 02: BullEye's Game App
 
 
