@@ -14,10 +14,15 @@ I've been inspired by Allen Wang's 30 days of Swift and Sam Lu's 100 Days of Swi
 
 ### Develops Project (Swift 4 Beta x Swift 3)
 < Project Index >
+
 Project 01 - Hustle App (Animation + AVFoundation)
+
 Project 02 - Swoosh App (AutoLayout, Segues, Optionals, IBActions)
+
 Project 03 - Dev Profile
+
 Project 04 - Shoppee (MVC Pattern + Algo/Calculate)
+
 Project 05 - Dev Shop (MVC Pattern + DataService)
 
 ### CodeStars' Project (Swift 4 Beta x Swift 3)
@@ -26,7 +31,9 @@ Project 01 -  UBER Clone Project (Firebase + Mapkit)
 
 ### Ray Wenderlich Sample Projects
 < Project Index >
+
 Project 01: IceCreamFlavor App (CocoaPods + Alamofire)
+
 Project 02: BullEye's Game App
 
 
