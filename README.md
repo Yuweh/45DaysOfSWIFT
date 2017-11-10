@@ -12,7 +12,14 @@ I've been inspired by Allen Wang's 30 days of Swift and Sam Lu's 100 Days of Swi
 
 ### [LATEST PROJECTS]
 
-### Develops Project (Swift 4 Beta x Swift 3)
+## PET PROJECTS
+< Project Index >
+
+PET01- Archon Support App
+
+
+
+### Devslopes Project (Swift 4 Beta x Swift 3)
 < Project Index >
 
 Project 01 - Hustle App (Animation + AVFoundation)
@@ -24,6 +31,8 @@ Project 03 - Dev Profile
 Project 04 - Shoppee (MVC Pattern + Algo/Calculate)
 
 Project 05 - Dev Shop (MVC Pattern + DataService)
+
+Project 08 - Goal Post (MVC Pattern + CoreData)
 
 ### CodeStars' Project (Swift 4 Beta x Swift 3)
 < Project Index >
