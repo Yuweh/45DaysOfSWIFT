@@ -10,14 +10,17 @@ I've been inspired by Allen Wang's 30 days of Swift and Sam Lu's 100 Days of Swi
 
 **CCA Certified for Swift Level 1 and Level 2
 
-### [LATEST PROJECTS]
+## [LATEST PROJECTS]
 
 ## PET PROJECTS
 < Project Index >
 
 PET01- Archon Support App
 
+### APPLE
+< Project Index >
 
+Project 01 - Food Tracker (named as Kainan)
 
 ### Devslopes Project (Swift 4 Beta x Swift 3)
 < Project Index >
@@ -32,11 +35,27 @@ Project 04 - Shoppee (MVC Pattern + Algo/Calculate)
 
 Project 05 - Dev Shop (MVC Pattern + DataService)
 
-Project 08 - Goal Post (MVC Pattern + CoreData)
+Project 06 - Goal Post (MVC Pattern + CoreData)
+
 
 ### CodeStars' Project (Swift 4 Beta x Swift 3)
 < Project Index >
 Project 01 -  UBER Clone Project (Firebase + Mapkit)
+
+
+### London App Brewery Project (Swift 4 Beta x Swift 3)
+< Project Index >
+
+Project 01 - I am Rich / Poor App
+
+Project 02 - Dicee
+
+Project 03 - Magic 8 Ball App
+
+Project 04 - Xylophone App
+
+Project 05 - Flash Chat
+
 
 ### Ray Wenderlich Sample Projects
 < Project Index >
