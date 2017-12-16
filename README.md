@@ -1,4 +1,8 @@
 ## 45DaysOfSWIFT
+[![IDE](https://img.shields.io/badge/Xcode-9-blue.svg)](https://developer.apple.com/xcode/)
+[![Language](https://img.shields.io/badge/swift-4-orange.svg)](https://swift.org)
+[![Platform](https://img.shields.io/badge/platform-iOS%2011-green.svg)](https://developer.apple.com/ios/)
+
 Inspired by Self-Taught Learners of Swift Programming. #45DaysOfSWIFT #XiAPPS
 
 Hi Fellow Developers / Recruiters
@@ -9,59 +13,3 @@ Apple's newest programming language for developing mobile apps.
 I've been inspired by Allen Wang's 30 days of Swift and Sam Lu's 100 Days of Swift projects and decided to have my own version, to showcase my progress and skills as a Swift iOS Develope
 
 **CCA Certified for Swift Level 1 and Level 2
-
-## [LATEST PROJECTS]
-
-## PET PROJECTS
-< Project Index >
-
-PET01- Archon Support App
-
-### APPLE
-< Project Index >
-
-Project 01 - Food Tracker (named as Kainan)
-
-### Devslopes Project (Swift 4 Beta x Swift 3)
-< Project Index >
-
-Project 01 - Hustle App (Animation + AVFoundation)
-
-Project 02 - Swoosh App (AutoLayout, Segues, Optionals, IBActions)
-
-Project 03 - Dev Profile
-
-Project 04 - Shoppee (MVC Pattern + Algo/Calculate)
-
-Project 05 - Dev Shop (MVC Pattern + DataService)
-
-Project 06 - Goal Post (MVC Pattern + CoreData)
-
-
-### CodeStars' Project (Swift 4 Beta x Swift 3)
-< Project Index >
-Project 01 -  UBER Clone Project (Firebase + Mapkit)
-
-
-### London App Brewery Project (Swift 4 Beta x Swift 3)
-< Project Index >
-
-Project 01 - I am Rich / Poor App
-
-Project 02 - Dicee
-
-Project 03 - Magic 8 Ball App
-
-Project 04 - Xylophone App
-
-Project 05 - Flash Chat
-
-
-### Ray Wenderlich Sample Projects
-< Project Index >
-
-Project 01: IceCreamFlavor App (CocoaPods + Alamofire)
-
-Project 02: BullEye's Game App
-
-
